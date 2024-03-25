@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/IT/Data_science/kaggle/Titanic%20-%20Machine%20Learning%20from%20Disaster/mlruns/421904660346368438/860e715d45904554a3e7a4e0136c6d51/artifacts
+end_time: 1711381553236
+entry_point_name: ''
+experiment_id: '421904660346368438'
+lifecycle_stage: active
+run_id: 860e715d45904554a3e7a4e0136c6d51
+run_name: Final params
+run_uuid: 860e715d45904554a3e7a4e0136c6d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711381552423
+status: 3
+tags: []
+user_id: ksush
